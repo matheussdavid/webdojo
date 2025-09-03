@@ -1,0 +1,46 @@
+{
+  "personal": {
+    "name": "Ford Prefect",
+    "email": "qa@teste.com.br",
+    "phone": "11 98877-6655",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "65602530070",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Ford Prefect",
+    "email": "qa@teste.com.br",
+    "phone": "11 98877-6655",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "48468489000157",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": [
+      "Cypress",
+      "Selenium"
+    ],
+    "terms": true
+  }
+}
